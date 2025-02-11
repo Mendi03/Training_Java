@@ -15,8 +15,4 @@ public class Constructor_01 {
         System.out.println("Value of num1 is: " + obj.num1);
         System.out.println("Value of num2 is: " +  obj.num2);
     }
-
-
-
-
 }
